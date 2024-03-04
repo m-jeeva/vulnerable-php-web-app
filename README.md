@@ -1,4 +1,4 @@
-# Vulnerable PHP Web App
+# Intentionally Vulnerable PHP Web App
 
 An Intentionally Vulnerable Website in PHP
 
